@@ -1,0 +1,4 @@
+Hi everyone. 
+Welcome to the word counter sample file.
+I am Harshit Goyal and let's test the code.
+This file has 23 words.
